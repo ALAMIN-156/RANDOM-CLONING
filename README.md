@@ -44,7 +44,7 @@
 
 - `rm -rf RANDOM-CLONING`
 
-- git clone https://github.com/MrALAMIN156/RANDOM-CLONING.git
+- git clone https://github.com/ALAMIN-156/RANDOM-CLONING.git
 
  
 
